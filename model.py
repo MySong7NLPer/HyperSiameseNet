@@ -20,9 +20,9 @@ class MatchSum(nn.Module):
                                                         output_hidden_states=True)
         self.ball = gt.PoincareBall()
         self.rank = 128
-        self.trans_d = nn.Linear(768, self.rank, bias=False)
-        self.trans_s = nn.Linear(768, self.rank, bias=False)
-        self.trans_c = nn.Linear(768, self.rank, bias=False)
+        self.trans_d = nn.Linear(self.hidden_size, self.rank, bias=False)
+        self.trans_s = nn.Linear(self.hidden_size, self.rank, bias=False)
+        self.trans_c = nn.Linear(self.hidden_size, self.rank, bias=False)
         self.min_norm = 1e-15
         self.eps = {torch.float32: 4e-3, torch.float64: 1e-5}
     def forward(self, text_id, candidate_id, summary_id):
