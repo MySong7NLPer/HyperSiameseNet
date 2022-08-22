@@ -1,7 +1,18 @@
 # HyperSiameseNet
 This repository provides the code of the paper [A Preliminary Exploration of Extractive Multi-Document Summarization in Hyperbolic Space](https://github.com/MySong7NLPer/HyperSiameseNet) (CIKM2022).
 
+## Dependencies
+- Python 3.7
+- [PyTorch](https://github.com/pytorch/pytorch) 1.4.0
+- [fastNLP](https://github.com/fastnlp/fastNLP) 0.5.0
+- [pyrouge](https://github.com/bheinzerling/pyrouge) 0.1.3
+	- You should fill your ROUGE path in metrics.py line 20 before running our code.
+- [rouge](https://github.com/pltrdy/rouge) 1.0.0
+	- Used in  the validation phase.
+- [transformers](https://github.com/huggingface/transformers) 2.5.1
 
+	
+All code only supports running on Linux.
 
 
 ## CONTACT
