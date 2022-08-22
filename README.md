@@ -1,5 +1,5 @@
 # HyperSiameseNet
-This repository provides the code of the paper [A Preliminary Exploration of Extractive Multi-Document Summarization in Hyperbolic Space] (CIKM2022).
+This repository provides the code of the paper [A Preliminary Exploration of Extractive Multi-Document Summarization in Hyperbolic Space](https://github.com/MySong7NLPer/HyperSiameseNet) (CIKM2022).
 
 
 
