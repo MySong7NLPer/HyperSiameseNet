@@ -1,7 +1,7 @@
 # HyperSiameseNet
 This repository provides the code of the paper [A Preliminary Exploration of Extractive Multi-Document Summarization in Hyperbolic Space](https://dl.acm.org/doi/10.1145/3511808.3557538) (CIKM2022).
 
-The new version of our [paper](https://drive.google.com/file/d/1UhHRh8iAl-fZuODt5-qlSGZFXrfTyJs2/view?usp=share_link)(corrected some errors in the published version).
+:smile: [The new version of our paper](https://drive.google.com/file/d/1UhHRh8iAl-fZuODt5-qlSGZFXrfTyJs2/view?usp=share_link)(corrected some errors in the published version) 😉.
 
 ## Dependencies
 - Python 3.7
@@ -20,7 +20,7 @@ All code only supports running on Linux.
 ## CONTACT
 
 For any question, feel free to create an issue, and we will try our best to solve. \
-**If the problem is more urgent**, you can send an email to me at the same time (I check email almost everyday 😉).
+**If the problem is more urgent**, you can send an email to me at the same time (I check email almost everyday).
 
 ```
 NAME: Mingyang Song
