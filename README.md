@@ -1,7 +1,7 @@
 # HyperSiameseNet
 This repository provides the code of the paper [A Preliminary Exploration of Extractive Multi-Document Summarization in Hyperbolic Space](https://dl.acm.org/doi/10.1145/3511808.3557538) (CIKM2022).
 
-The new version of our [paper](https://github.com/MySong7NLPer/HyperSiameseNet/blob/main/HyperSiameseNet.pdf)(corrected some errors in the published version).
+The new version of our [paper](https://drive.google.com/file/d/1UhHRh8iAl-fZuODt5-qlSGZFXrfTyJs2/view?usp=share_link)(corrected some errors in the published version).
 
 ## Dependencies
 - Python 3.7
